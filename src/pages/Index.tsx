@@ -171,9 +171,8 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-8">
-              <h1 className="text-2xl font-bold text-red-500 flex items-center gap-2">
-                <Icon name="Film" size={32} />
-                КиноПортал
+              <h1 className="text-2xl font-bold flex items-center gap-2 mx-0 text-red-800">
+                PRIME ТЕЛЕВИДЕНИЕ
               </h1>
               <nav className="hidden md:flex space-x-6">
                 <a href="#" className="hover:text-red-400 transition-colors">
